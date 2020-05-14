@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "atom-shell",
+    "staging": "mealtracker-vue"
+  }
+}
